@@ -272,3 +272,9 @@ Story
   text-transform: capitalize;
   font-size: 0.85rem;
 }
+
+/* Custom CSS */
+
+.search-page-container {
+  display: block;
+}
